@@ -1,12 +1,7 @@
 # Frontend Mentor - Single price grid component
 
-![Design preview for the Single price grid component coding challenge](./design/desktop-preview.jpg)
+<img width="1427" alt="Screenshot 2025-03-15 at 3 33 56 PM" src="https://github.com/user-attachments/assets/33eede78-c075-41f5-999d-e4fdb434ca78" />
 
-## Welcome! 👋
-
-Thanks for checking out this front-end coding challenge.
-
-[Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
 
 **To do this challenge, you need a basic understanding of HTML and CSS.**
 
