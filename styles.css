@@ -1,0 +1,77 @@
+body {
+  background-color: hsl(204, 43%, 93%) !important;
+  display: grid;
+  place-items: center;
+  min-height: 100vh;
+  font-size: 16px;
+  font-family: "Karla", sans-serif;
+}
+/* min-height in parent(optional) and width: 60%; margin:auto in child which needs to be in center,  */
+
+.amount {
+  font-size: 2.3rem;
+}
+
+.btn-custom {
+  background-color: hsl(71, 73%, 54%) !important;
+  color: white;
+}
+
+.col2 {
+  background-color: hsl(179, 62%, 43%);
+  color: white;
+  border-radius: 0 0 0 2.5%;
+  padding: 7% 7%;
+}
+
+.col3 {
+  background-color: #66d2ce;
+  /* #99ddcc; */
+  border-radius: 0 0 2.5% 0;
+  color: white;
+  padding: 7% 7%;
+}
+
+.fs-4 {
+  opacity: 0.5;
+}
+
+.heading {
+  color: hsl(179, 62%, 43%);
+  font-size: 2em;
+}
+
+.list-items {
+  list-style-type: none;
+  opacity: 0.7;
+}
+.section-2 {
+  display: grid;
+  justify-content: center;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  padding: 12px, 20px;
+  background-color: white;
+}
+.subheading {
+  color: hsl(71, 73%, 54%);
+}
+
+.para {
+  color: hsl(218, 22%, 67%);
+}
+
+.wrapper {
+  display: grid;
+  background-color: white;
+  border-radius: 2.5%;
+  width: 65%;
+  margin: auto;
+  /* padding: 5% 2; */
+}
+.wrapper > div {
+  padding: 22px 22px 0 22px;
+}
+
+.btn {
+  width: 240px;
+}
